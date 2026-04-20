@@ -11,3 +11,7 @@
 //    in                               out
 // (proc_4) out  <-  pipe3  <-  in  (proc_3)
 ```
+## Run
+```console
+$ make && ./main
+```
